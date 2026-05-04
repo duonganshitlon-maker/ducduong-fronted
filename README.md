@@ -10,7 +10,7 @@ Mình là Vũ Đức Dương một người đam mê việc xây dựng các gia
 
 ---
 
-## 👥 Thành viên nhóm (Team Members)
+## 👥 Thành viên nhóm (Nhóm 3)
 
 Dưới đây là những người đồng đội tuyệt vời đang cùng làm việc với mình trong các dự án:
 
@@ -18,4 +18,4 @@ Dưới đây là những người đồng đội tuyệt vời đang cùng làm
 | :---: | :--- | :--- | :--- |
 | <img src="https://github.com/thanhvien1.png" width="50" height="50" style="border-radius:50%"> | **Phạm Tiến Hiếu** | Backend Developer | [@thanhvien1](https://github.com/thanhvien1) |
 | <img src="https://github.com/thanhvien2.png" width="50" height="50" style="border-radius:50%"> | **Nguyễn Ngọc Xuân** | UI/UX Designer | [@thanhvien2](https://github.com/thanhvien2) |
-| <img src="https://github.com/thanhvien3.png" width="50" height="50" style="border-radius:50%"> | **Lê Văn C** | QA/Tester | [@thanhvien3](https://github.com/thanhvien3) |
+| <img src="https://github.com/thanhvien3.png" width="50" height="50" style="border-radius:50%"> | **Nguyễn Vũ Gia Huy** | QA/Tester | [@thanhvien3](https://github.com/thanhvien3) |
